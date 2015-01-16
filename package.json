@@ -3,6 +3,9 @@
   "version": "0.0.8",
   "description": "Take and Compare screenshots",
   "main": "index.js",
+  "scripts": {
+    "postinstall": "export PKG_CONFIG_PATH=/opt/X11/lib/pkgconfig"
+  },
   "keywords": [],
   "repository": {
     "type": "git",
