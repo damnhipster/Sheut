@@ -16,7 +16,6 @@ Sheut [![NPM version](http://img.shields.io/npm/v/sheut.svg)](https://www.npmjs.
 
 ## Installing
 
- * `export PKG_CONFIG_PATH=/opt/X11/lib/pkgconfig`
  * `npm install --save-dev sheut`
  * Create a [sheut.config.js config file](sheut.config.js)
  
